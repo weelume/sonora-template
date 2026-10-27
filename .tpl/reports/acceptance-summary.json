@@ -1,8 +1,8 @@
 {
-  "checkedAt": "2026-10-27T09:39:54.601Z",
+  "checkedAt": "2026-10-27T09:57:16.875Z",
   "kind": "local-application-acceptance",
-  "sourceDigest": "26aedfafd2831e0b7dacf6b4f2eb886b58eb35166b6a1066320adb5946727100",
-  "sourceCommit": "700dfd5783cea49fbbd0dbed5f76334b1fccb643",
+  "sourceDigest": "249d978024846e1ab32d95f9fba3213827a66d48330c394ffb684683639b117c",
+  "sourceCommit": "6ea61f25a2e23dde89fa42fd2689911383f90049",
   "environment": {
     "platform": "local WSL Ubuntu / Linux filesystem",
     "node": "24.16.0",
@@ -328,7 +328,7 @@
     ],
     [
       ".tpl/tools/check.mjs",
-      "66a14ad6bf126e13b9693ae88369f2b6912dd9b7ea6ecd0663d52c191162cbb7"
+      "0eff4ab1c0d73c443d7f21920abd5e6a01a451eced6705eab12d34b580c31596"
     ],
     [
       ".tpl/tools/contracts.mjs",

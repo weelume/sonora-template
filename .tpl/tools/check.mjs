@@ -102,7 +102,7 @@ export async function readTemplate(directory) {
   assertGitUrl(template.gitUrl);
   unique(template.surfaces.map(s => s.id), '端 id');
   for (const surface of template.surfaces) {
-    if (surface.id === 'preview') throw new Error('端 id preview 为 Weelume 保留值');
+    if (surface.id === 'preview') throw new Error('端 id preview 为在线预览保留值');
     unique(surface.pages.map(p => p.slug), '页面 slug');
     if (!surface.pages.some(p => p.slug === '')) throw new Error(`端 ${surface.id} 缺少首页`);
   }
