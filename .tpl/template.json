@@ -1,0 +1,255 @@
+{
+  "$schema": "./schemas/template.schema.json",
+  "format": "git-template",
+  "formatVersion": "0.2.0",
+  "id": "sonora",
+  "version": "1.0.0",
+  "name": "Sonora · 自然家居音响",
+  "localizedNames": {
+    "zh": "Sonora · 自然家居音响",
+    "en": "Sonora · Considered home audio"
+  },
+  "gitUrl": null,
+  "sceneId": "corporate-site",
+  "listed": false,
+  "tags": [
+    "家居音响",
+    "自然材质",
+    "暖色极简",
+    "产品图库",
+    "中英文",
+    "PC / iPad / H5"
+  ],
+  "stack": [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "framer-motion"
+  ],
+  "summary": "自然材质与柔和日光构成的双语音响品牌模板，包含产品图库、声音与设计介绍、生活日志、FAQ 与本地演示表单。",
+  "localizedSummaries": {
+    "en": "A calm bilingual audio brand template with a product gallery, sound and material stories, journal, FAQ and local demonstration forms."
+  },
+  "accentColor": "#93826b",
+  "cover": "assets/desktop-home.webp",
+  "screenshots": [
+    {
+      "src": "assets/desktop-home.webp",
+      "alt": "Sonora desktop home",
+      "device": "desktop",
+      "width": 1037,
+      "height": 720,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/desktop-sound.webp",
+      "alt": "Sonora desktop sound",
+      "device": "desktop",
+      "width": 1037,
+      "height": 720,
+      "surfaceId": "site",
+      "pageSlug": "sound"
+    },
+    {
+      "src": "assets/desktop-journal.webp",
+      "alt": "Sonora desktop journal",
+      "device": "desktop",
+      "width": 1037,
+      "height": 720,
+      "surfaceId": "site",
+      "pageSlug": "journal"
+    },
+    {
+      "src": "assets/desktop-contact.webp",
+      "alt": "Sonora desktop contact",
+      "device": "desktop",
+      "width": 1037,
+      "height": 720,
+      "surfaceId": "site",
+      "pageSlug": "contact"
+    },
+    {
+      "src": "assets/tablet-home.webp",
+      "alt": "Sonora tablet home",
+      "device": "tablet",
+      "width": 509,
+      "height": 720,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/tablet-sound.webp",
+      "alt": "Sonora tablet sound",
+      "device": "tablet",
+      "width": 509,
+      "height": 720,
+      "surfaceId": "site",
+      "pageSlug": "sound"
+    },
+    {
+      "src": "assets/tablet-journal.webp",
+      "alt": "Sonora tablet journal",
+      "device": "tablet",
+      "width": 509,
+      "height": 720,
+      "surfaceId": "site",
+      "pageSlug": "journal"
+    },
+    {
+      "src": "assets/tablet-contact.webp",
+      "alt": "Sonora tablet contact",
+      "device": "tablet",
+      "width": 509,
+      "height": 720,
+      "surfaceId": "site",
+      "pageSlug": "contact"
+    },
+    {
+      "src": "assets/mobile-home.webp",
+      "alt": "Sonora mobile home",
+      "device": "mobile",
+      "width": 333,
+      "height": 720,
+      "surfaceId": "site",
+      "pageSlug": ""
+    },
+    {
+      "src": "assets/mobile-sound.webp",
+      "alt": "Sonora mobile sound",
+      "device": "mobile",
+      "width": 333,
+      "height": 720,
+      "surfaceId": "site",
+      "pageSlug": "sound"
+    },
+    {
+      "src": "assets/mobile-journal.webp",
+      "alt": "Sonora mobile journal",
+      "device": "mobile",
+      "width": 333,
+      "height": 720,
+      "surfaceId": "site",
+      "pageSlug": "journal"
+    },
+    {
+      "src": "assets/mobile-contact.webp",
+      "alt": "Sonora mobile contact",
+      "device": "mobile",
+      "width": 333,
+      "height": 720,
+      "surfaceId": "site",
+      "pageSlug": "contact"
+    }
+  ],
+  "surfaces": [
+    {
+      "id": "site",
+      "name": "音响品牌官网",
+      "platform": "pc",
+      "locales": [
+        "zh",
+        "en"
+      ],
+      "pages": [
+        {
+          "slug": "",
+          "title": "首页",
+          "localizedTitles": {
+            "en": "Home"
+          }
+        },
+        {
+          "slug": "speakers",
+          "title": "音响",
+          "localizedTitles": {
+            "en": "Speakers"
+          }
+        },
+        {
+          "slug": "sound",
+          "title": "声音",
+          "localizedTitles": {
+            "en": "Sound"
+          }
+        },
+        {
+          "slug": "design",
+          "title": "设计",
+          "localizedTitles": {
+            "en": "Design"
+          }
+        },
+        {
+          "slug": "about",
+          "title": "关于",
+          "localizedTitles": {
+            "en": "About"
+          }
+        },
+        {
+          "slug": "journal",
+          "title": "日志",
+          "localizedTitles": {
+            "en": "Journal"
+          }
+        },
+        {
+          "slug": "journal/slow-listening",
+          "title": "安静聆听",
+          "localizedTitles": {
+            "en": "Quiet listening"
+          }
+        },
+        {
+          "slug": "journal/natural-materials",
+          "title": "自然材质",
+          "localizedTitles": {
+            "en": "Natural materials"
+          }
+        },
+        {
+          "slug": "journal/a-place-for-sound",
+          "title": "空间里的声音",
+          "localizedTitles": {
+            "en": "A place for sound"
+          }
+        },
+        {
+          "slug": "contact",
+          "title": "联系",
+          "localizedTitles": {
+            "en": "Contact"
+          }
+        },
+        {
+          "slug": "faq",
+          "title": "常见问题",
+          "localizedTitles": {
+            "en": "FAQ"
+          }
+        },
+        {
+          "slug": "privacy",
+          "title": "隐私说明",
+          "localizedTitles": {
+            "en": "Privacy"
+          }
+        },
+        {
+          "slug": "terms",
+          "title": "使用条款",
+          "localizedTitles": {
+            "en": "Terms"
+          }
+        }
+      ]
+    }
+  ],
+  "license": {
+    "type": "restricted",
+    "file": "docs/LICENSE.md",
+    "summary": "原创实现与 AI 概念图片；第三方字体保留其许可，商业使用前需核实品牌与素材权利。",
+    "redistributionAllowed": false
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "$schema": "./schemas/customization.schema.json",
+  "format": "git-template-customization",
+  "formatVersion": "0.2.0",
+  "entries": [
+    {
+      "id": "brand",
+      "title": "品牌配置",
+      "description": "品牌配置",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/sonora/config",
+          "kind": "directory",
+          "purpose": "品牌配置"
+        }
+      ],
+      "constraints": [
+        "同步维护双语内容",
+        "复用主题与公共组件",
+        "新增依赖或外部服务需获得批准"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "test",
+        "build"
+      ]
+    },
+    {
+      "id": "content",
+      "title": "双语内容",
+      "description": "双语内容",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/sonora/content",
+          "kind": "directory",
+          "purpose": "双语内容"
+        }
+      ],
+      "constraints": [
+        "同步维护双语内容",
+        "复用主题与公共组件",
+        "新增依赖或外部服务需获得批准"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "test",
+        "build"
+      ]
+    },
+    {
+      "id": "theme",
+      "title": "主题与响应式",
+      "description": "主题与响应式",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/sonora/tokens.css",
+          "kind": "file",
+          "purpose": "主题与响应式"
+        }
+      ],
+      "constraints": [
+        "同步维护双语内容",
+        "复用主题与公共组件",
+        "新增依赖或外部服务需获得批准"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "test",
+        "build"
+      ]
+    },
+    {
+      "id": "pages",
+      "title": "页面与交互",
+      "description": "页面与交互",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/sonora/pages",
+          "kind": "directory",
+          "purpose": "页面与交互"
+        }
+      ],
+      "constraints": [
+        "同步维护双语内容",
+        "复用主题与公共组件",
+        "新增依赖或外部服务需获得批准"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "test",
+        "build"
+      ]
+    }
+  ]
+}

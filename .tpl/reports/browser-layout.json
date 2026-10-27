@@ -1,0 +1,1879 @@
+{
+  "checkedAt": "2026-10-27T09:32:15.979Z",
+  "mode": "real-browser-scaled-css-viewports",
+  "note": "CSS viewports use the required desktop/tablet/mobile sizes. Screenshots are cropped at their actual displayed pixel size, without upscaling.",
+  "checks": [
+    {
+      "path": "/",
+      "cssViewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "contentWidth": 1430,
+      "scrollWidth": 1430,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 1037,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "desktop",
+      "locale": "zh"
+    },
+    {
+      "path": "/speakers",
+      "cssViewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "contentWidth": 1430,
+      "scrollWidth": 1430,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 1037,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "desktop",
+      "locale": "zh"
+    },
+    {
+      "path": "/sound",
+      "cssViewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "contentWidth": 1430,
+      "scrollWidth": 1430,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 1037,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "desktop",
+      "locale": "zh"
+    },
+    {
+      "path": "/design",
+      "cssViewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "contentWidth": 1430,
+      "scrollWidth": 1430,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 1037,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "desktop",
+      "locale": "zh"
+    },
+    {
+      "path": "/about",
+      "cssViewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "contentWidth": 1430,
+      "scrollWidth": 1430,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 1037,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "desktop",
+      "locale": "zh"
+    },
+    {
+      "path": "/journal",
+      "cssViewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "contentWidth": 1430,
+      "scrollWidth": 1430,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 1037,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "desktop",
+      "locale": "zh"
+    },
+    {
+      "path": "/journal/slow-listening",
+      "cssViewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "contentWidth": 1430,
+      "scrollWidth": 1430,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 1037,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "desktop",
+      "locale": "zh"
+    },
+    {
+      "path": "/journal/natural-materials",
+      "cssViewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "contentWidth": 1430,
+      "scrollWidth": 1430,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 1037,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "desktop",
+      "locale": "zh"
+    },
+    {
+      "path": "/journal/a-place-for-sound",
+      "cssViewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "contentWidth": 1430,
+      "scrollWidth": 1430,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 1037,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "desktop",
+      "locale": "zh"
+    },
+    {
+      "path": "/contact",
+      "cssViewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "contentWidth": 1430,
+      "scrollWidth": 1430,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 1037,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "desktop",
+      "locale": "zh"
+    },
+    {
+      "path": "/faq",
+      "cssViewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "contentWidth": 1440,
+      "scrollWidth": 1440,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 1037,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "desktop",
+      "locale": "zh"
+    },
+    {
+      "path": "/privacy",
+      "cssViewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "contentWidth": 1440,
+      "scrollWidth": 1440,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 1037,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "desktop",
+      "locale": "zh"
+    },
+    {
+      "path": "/terms",
+      "cssViewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "contentWidth": 1440,
+      "scrollWidth": 1440,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 1037,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "desktop",
+      "locale": "zh"
+    },
+    {
+      "path": "/en",
+      "cssViewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "contentWidth": 1430,
+      "scrollWidth": 1430,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 1037,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "desktop",
+      "locale": "en"
+    },
+    {
+      "path": "/en/speakers",
+      "cssViewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "contentWidth": 1430,
+      "scrollWidth": 1430,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 1037,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "desktop",
+      "locale": "en"
+    },
+    {
+      "path": "/en/sound",
+      "cssViewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "contentWidth": 1430,
+      "scrollWidth": 1430,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 1037,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "desktop",
+      "locale": "en"
+    },
+    {
+      "path": "/en/design",
+      "cssViewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "contentWidth": 1430,
+      "scrollWidth": 1430,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 1037,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "desktop",
+      "locale": "en"
+    },
+    {
+      "path": "/en/about",
+      "cssViewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "contentWidth": 1430,
+      "scrollWidth": 1430,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 1037,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "desktop",
+      "locale": "en"
+    },
+    {
+      "path": "/en/journal",
+      "cssViewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "contentWidth": 1430,
+      "scrollWidth": 1430,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 1037,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "desktop",
+      "locale": "en"
+    },
+    {
+      "path": "/en/journal/slow-listening",
+      "cssViewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "contentWidth": 1430,
+      "scrollWidth": 1430,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 1037,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "desktop",
+      "locale": "en"
+    },
+    {
+      "path": "/en/journal/natural-materials",
+      "cssViewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "contentWidth": 1430,
+      "scrollWidth": 1430,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 1037,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "desktop",
+      "locale": "en"
+    },
+    {
+      "path": "/en/journal/a-place-for-sound",
+      "cssViewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "contentWidth": 1430,
+      "scrollWidth": 1430,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 1037,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "desktop",
+      "locale": "en"
+    },
+    {
+      "path": "/en/contact",
+      "cssViewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "contentWidth": 1430,
+      "scrollWidth": 1430,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 1037,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "desktop",
+      "locale": "en"
+    },
+    {
+      "path": "/en/faq",
+      "cssViewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "contentWidth": 1440,
+      "scrollWidth": 1440,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 1037,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "desktop",
+      "locale": "en"
+    },
+    {
+      "path": "/en/privacy",
+      "cssViewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "contentWidth": 1440,
+      "scrollWidth": 1440,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 1037,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "desktop",
+      "locale": "en"
+    },
+    {
+      "path": "/en/terms",
+      "cssViewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "contentWidth": 1440,
+      "scrollWidth": 1440,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 1037,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "desktop",
+      "locale": "en"
+    },
+    {
+      "path": "/",
+      "cssViewport": {
+        "width": 834,
+        "height": 1180
+      },
+      "contentWidth": 824,
+      "scrollWidth": 824,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 509,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "tablet",
+      "locale": "zh"
+    },
+    {
+      "path": "/speakers",
+      "cssViewport": {
+        "width": 834,
+        "height": 1180
+      },
+      "contentWidth": 824,
+      "scrollWidth": 824,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 509,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "tablet",
+      "locale": "zh"
+    },
+    {
+      "path": "/sound",
+      "cssViewport": {
+        "width": 834,
+        "height": 1180
+      },
+      "contentWidth": 824,
+      "scrollWidth": 824,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 509,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "tablet",
+      "locale": "zh"
+    },
+    {
+      "path": "/design",
+      "cssViewport": {
+        "width": 834,
+        "height": 1180
+      },
+      "contentWidth": 824,
+      "scrollWidth": 824,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 509,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "tablet",
+      "locale": "zh"
+    },
+    {
+      "path": "/about",
+      "cssViewport": {
+        "width": 834,
+        "height": 1180
+      },
+      "contentWidth": 824,
+      "scrollWidth": 824,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 509,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "tablet",
+      "locale": "zh"
+    },
+    {
+      "path": "/journal",
+      "cssViewport": {
+        "width": 834,
+        "height": 1180
+      },
+      "contentWidth": 824,
+      "scrollWidth": 824,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 509,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "tablet",
+      "locale": "zh"
+    },
+    {
+      "path": "/journal/slow-listening",
+      "cssViewport": {
+        "width": 834,
+        "height": 1180
+      },
+      "contentWidth": 824,
+      "scrollWidth": 824,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 509,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "tablet",
+      "locale": "zh"
+    },
+    {
+      "path": "/journal/natural-materials",
+      "cssViewport": {
+        "width": 834,
+        "height": 1180
+      },
+      "contentWidth": 824,
+      "scrollWidth": 824,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 509,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "tablet",
+      "locale": "zh"
+    },
+    {
+      "path": "/journal/a-place-for-sound",
+      "cssViewport": {
+        "width": 834,
+        "height": 1180
+      },
+      "contentWidth": 824,
+      "scrollWidth": 824,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 509,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "tablet",
+      "locale": "zh"
+    },
+    {
+      "path": "/contact",
+      "cssViewport": {
+        "width": 834,
+        "height": 1180
+      },
+      "contentWidth": 834,
+      "scrollWidth": 834,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 509,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "tablet",
+      "locale": "zh"
+    },
+    {
+      "path": "/faq",
+      "cssViewport": {
+        "width": 834,
+        "height": 1180
+      },
+      "contentWidth": 834,
+      "scrollWidth": 834,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 509,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "tablet",
+      "locale": "zh"
+    },
+    {
+      "path": "/privacy",
+      "cssViewport": {
+        "width": 834,
+        "height": 1180
+      },
+      "contentWidth": 834,
+      "scrollWidth": 834,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 509,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "tablet",
+      "locale": "zh"
+    },
+    {
+      "path": "/terms",
+      "cssViewport": {
+        "width": 834,
+        "height": 1180
+      },
+      "contentWidth": 834,
+      "scrollWidth": 834,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 509,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "tablet",
+      "locale": "zh"
+    },
+    {
+      "path": "/en",
+      "cssViewport": {
+        "width": 834,
+        "height": 1180
+      },
+      "contentWidth": 824,
+      "scrollWidth": 824,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 509,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "tablet",
+      "locale": "en"
+    },
+    {
+      "path": "/en/speakers",
+      "cssViewport": {
+        "width": 834,
+        "height": 1180
+      },
+      "contentWidth": 824,
+      "scrollWidth": 824,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 509,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "tablet",
+      "locale": "en"
+    },
+    {
+      "path": "/en/sound",
+      "cssViewport": {
+        "width": 834,
+        "height": 1180
+      },
+      "contentWidth": 824,
+      "scrollWidth": 824,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 509,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "tablet",
+      "locale": "en"
+    },
+    {
+      "path": "/en/design",
+      "cssViewport": {
+        "width": 834,
+        "height": 1180
+      },
+      "contentWidth": 824,
+      "scrollWidth": 824,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 509,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "tablet",
+      "locale": "en"
+    },
+    {
+      "path": "/en/about",
+      "cssViewport": {
+        "width": 834,
+        "height": 1180
+      },
+      "contentWidth": 824,
+      "scrollWidth": 824,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 509,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "tablet",
+      "locale": "en"
+    },
+    {
+      "path": "/en/journal",
+      "cssViewport": {
+        "width": 834,
+        "height": 1180
+      },
+      "contentWidth": 824,
+      "scrollWidth": 824,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 509,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "tablet",
+      "locale": "en"
+    },
+    {
+      "path": "/en/journal/slow-listening",
+      "cssViewport": {
+        "width": 834,
+        "height": 1180
+      },
+      "contentWidth": 824,
+      "scrollWidth": 824,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 509,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "tablet",
+      "locale": "en"
+    },
+    {
+      "path": "/en/journal/natural-materials",
+      "cssViewport": {
+        "width": 834,
+        "height": 1180
+      },
+      "contentWidth": 824,
+      "scrollWidth": 824,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 509,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "tablet",
+      "locale": "en"
+    },
+    {
+      "path": "/en/journal/a-place-for-sound",
+      "cssViewport": {
+        "width": 834,
+        "height": 1180
+      },
+      "contentWidth": 824,
+      "scrollWidth": 824,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 509,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "tablet",
+      "locale": "en"
+    },
+    {
+      "path": "/en/contact",
+      "cssViewport": {
+        "width": 834,
+        "height": 1180
+      },
+      "contentWidth": 824,
+      "scrollWidth": 824,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 509,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "tablet",
+      "locale": "en"
+    },
+    {
+      "path": "/en/faq",
+      "cssViewport": {
+        "width": 834,
+        "height": 1180
+      },
+      "contentWidth": 834,
+      "scrollWidth": 834,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 509,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "tablet",
+      "locale": "en"
+    },
+    {
+      "path": "/en/privacy",
+      "cssViewport": {
+        "width": 834,
+        "height": 1180
+      },
+      "contentWidth": 834,
+      "scrollWidth": 834,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 509,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "tablet",
+      "locale": "en"
+    },
+    {
+      "path": "/en/terms",
+      "cssViewport": {
+        "width": 834,
+        "height": 1180
+      },
+      "contentWidth": 834,
+      "scrollWidth": 834,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 509,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "tablet",
+      "locale": "en"
+    },
+    {
+      "path": "/",
+      "cssViewport": {
+        "width": 390,
+        "height": 844
+      },
+      "contentWidth": 380,
+      "scrollWidth": 380,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 333,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "mobile",
+      "locale": "zh"
+    },
+    {
+      "path": "/speakers",
+      "cssViewport": {
+        "width": 390,
+        "height": 844
+      },
+      "contentWidth": 380,
+      "scrollWidth": 380,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 333,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "mobile",
+      "locale": "zh"
+    },
+    {
+      "path": "/sound",
+      "cssViewport": {
+        "width": 390,
+        "height": 844
+      },
+      "contentWidth": 380,
+      "scrollWidth": 380,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 333,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "mobile",
+      "locale": "zh"
+    },
+    {
+      "path": "/design",
+      "cssViewport": {
+        "width": 390,
+        "height": 844
+      },
+      "contentWidth": 380,
+      "scrollWidth": 380,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 333,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "mobile",
+      "locale": "zh"
+    },
+    {
+      "path": "/about",
+      "cssViewport": {
+        "width": 390,
+        "height": 844
+      },
+      "contentWidth": 380,
+      "scrollWidth": 380,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 333,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "mobile",
+      "locale": "zh"
+    },
+    {
+      "path": "/journal",
+      "cssViewport": {
+        "width": 390,
+        "height": 844
+      },
+      "contentWidth": 380,
+      "scrollWidth": 380,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 333,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "mobile",
+      "locale": "zh"
+    },
+    {
+      "path": "/journal/slow-listening",
+      "cssViewport": {
+        "width": 390,
+        "height": 844
+      },
+      "contentWidth": 380,
+      "scrollWidth": 380,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 333,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "mobile",
+      "locale": "zh"
+    },
+    {
+      "path": "/journal/natural-materials",
+      "cssViewport": {
+        "width": 390,
+        "height": 844
+      },
+      "contentWidth": 380,
+      "scrollWidth": 380,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 333,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "mobile",
+      "locale": "zh"
+    },
+    {
+      "path": "/journal/a-place-for-sound",
+      "cssViewport": {
+        "width": 390,
+        "height": 844
+      },
+      "contentWidth": 380,
+      "scrollWidth": 380,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 333,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "mobile",
+      "locale": "zh"
+    },
+    {
+      "path": "/contact",
+      "cssViewport": {
+        "width": 390,
+        "height": 844
+      },
+      "contentWidth": 380,
+      "scrollWidth": 380,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 333,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "mobile",
+      "locale": "zh"
+    },
+    {
+      "path": "/faq",
+      "cssViewport": {
+        "width": 390,
+        "height": 844
+      },
+      "contentWidth": 380,
+      "scrollWidth": 380,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 333,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "mobile",
+      "locale": "zh"
+    },
+    {
+      "path": "/privacy",
+      "cssViewport": {
+        "width": 390,
+        "height": 844
+      },
+      "contentWidth": 380,
+      "scrollWidth": 380,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 333,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "mobile",
+      "locale": "zh"
+    },
+    {
+      "path": "/terms",
+      "cssViewport": {
+        "width": 390,
+        "height": 844
+      },
+      "contentWidth": 380,
+      "scrollWidth": 380,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 333,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "mobile",
+      "locale": "zh"
+    },
+    {
+      "path": "/en",
+      "cssViewport": {
+        "width": 390,
+        "height": 844
+      },
+      "contentWidth": 380,
+      "scrollWidth": 380,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 333,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "mobile",
+      "locale": "en"
+    },
+    {
+      "path": "/en/speakers",
+      "cssViewport": {
+        "width": 390,
+        "height": 844
+      },
+      "contentWidth": 380,
+      "scrollWidth": 380,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 333,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "mobile",
+      "locale": "en"
+    },
+    {
+      "path": "/en/sound",
+      "cssViewport": {
+        "width": 390,
+        "height": 844
+      },
+      "contentWidth": 380,
+      "scrollWidth": 380,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 333,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "mobile",
+      "locale": "en"
+    },
+    {
+      "path": "/en/design",
+      "cssViewport": {
+        "width": 390,
+        "height": 844
+      },
+      "contentWidth": 380,
+      "scrollWidth": 380,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 333,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "mobile",
+      "locale": "en"
+    },
+    {
+      "path": "/en/about",
+      "cssViewport": {
+        "width": 390,
+        "height": 844
+      },
+      "contentWidth": 380,
+      "scrollWidth": 380,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 333,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "mobile",
+      "locale": "en"
+    },
+    {
+      "path": "/en/journal",
+      "cssViewport": {
+        "width": 390,
+        "height": 844
+      },
+      "contentWidth": 380,
+      "scrollWidth": 380,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 333,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "mobile",
+      "locale": "en"
+    },
+    {
+      "path": "/en/journal/slow-listening",
+      "cssViewport": {
+        "width": 390,
+        "height": 844
+      },
+      "contentWidth": 380,
+      "scrollWidth": 380,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 333,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "mobile",
+      "locale": "en"
+    },
+    {
+      "path": "/en/journal/natural-materials",
+      "cssViewport": {
+        "width": 390,
+        "height": 844
+      },
+      "contentWidth": 380,
+      "scrollWidth": 380,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 333,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "mobile",
+      "locale": "en"
+    },
+    {
+      "path": "/en/journal/a-place-for-sound",
+      "cssViewport": {
+        "width": 390,
+        "height": 844
+      },
+      "contentWidth": 380,
+      "scrollWidth": 380,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 333,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "mobile",
+      "locale": "en"
+    },
+    {
+      "path": "/en/contact",
+      "cssViewport": {
+        "width": 390,
+        "height": 844
+      },
+      "contentWidth": 380,
+      "scrollWidth": 380,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 333,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "mobile",
+      "locale": "en"
+    },
+    {
+      "path": "/en/faq",
+      "cssViewport": {
+        "width": 390,
+        "height": 844
+      },
+      "contentWidth": 380,
+      "scrollWidth": 380,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 333,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "mobile",
+      "locale": "en"
+    },
+    {
+      "path": "/en/privacy",
+      "cssViewport": {
+        "width": 390,
+        "height": 844
+      },
+      "contentWidth": 380,
+      "scrollWidth": 380,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 333,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "mobile",
+      "locale": "en"
+    },
+    {
+      "path": "/en/terms",
+      "cssViewport": {
+        "width": 390,
+        "height": 844
+      },
+      "contentWidth": 380,
+      "scrollWidth": 380,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 333,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "mobile",
+      "locale": "en"
+    },
+    {
+      "path": "/",
+      "cssViewport": {
+        "width": 320,
+        "height": 844
+      },
+      "contentWidth": 310,
+      "scrollWidth": 310,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 273,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "narrow",
+      "locale": "zh"
+    },
+    {
+      "path": "/speakers",
+      "cssViewport": {
+        "width": 320,
+        "height": 844
+      },
+      "contentWidth": 310,
+      "scrollWidth": 310,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 273,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "narrow",
+      "locale": "zh"
+    },
+    {
+      "path": "/sound",
+      "cssViewport": {
+        "width": 320,
+        "height": 844
+      },
+      "contentWidth": 310,
+      "scrollWidth": 310,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 273,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "narrow",
+      "locale": "zh"
+    },
+    {
+      "path": "/design",
+      "cssViewport": {
+        "width": 320,
+        "height": 844
+      },
+      "contentWidth": 310,
+      "scrollWidth": 310,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 273,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "narrow",
+      "locale": "zh"
+    },
+    {
+      "path": "/about",
+      "cssViewport": {
+        "width": 320,
+        "height": 844
+      },
+      "contentWidth": 310,
+      "scrollWidth": 310,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 273,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "narrow",
+      "locale": "zh"
+    },
+    {
+      "path": "/journal",
+      "cssViewport": {
+        "width": 320,
+        "height": 844
+      },
+      "contentWidth": 310,
+      "scrollWidth": 310,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 273,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "narrow",
+      "locale": "zh"
+    },
+    {
+      "path": "/journal/slow-listening",
+      "cssViewport": {
+        "width": 320,
+        "height": 844
+      },
+      "contentWidth": 310,
+      "scrollWidth": 310,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 273,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "narrow",
+      "locale": "zh"
+    },
+    {
+      "path": "/journal/natural-materials",
+      "cssViewport": {
+        "width": 320,
+        "height": 844
+      },
+      "contentWidth": 310,
+      "scrollWidth": 310,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 273,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "narrow",
+      "locale": "zh"
+    },
+    {
+      "path": "/journal/a-place-for-sound",
+      "cssViewport": {
+        "width": 320,
+        "height": 844
+      },
+      "contentWidth": 310,
+      "scrollWidth": 310,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 273,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "narrow",
+      "locale": "zh"
+    },
+    {
+      "path": "/contact",
+      "cssViewport": {
+        "width": 320,
+        "height": 844
+      },
+      "contentWidth": 310,
+      "scrollWidth": 310,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 273,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "narrow",
+      "locale": "zh"
+    },
+    {
+      "path": "/faq",
+      "cssViewport": {
+        "width": 320,
+        "height": 844
+      },
+      "contentWidth": 310,
+      "scrollWidth": 310,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 273,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "narrow",
+      "locale": "zh"
+    },
+    {
+      "path": "/privacy",
+      "cssViewport": {
+        "width": 320,
+        "height": 844
+      },
+      "contentWidth": 310,
+      "scrollWidth": 310,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 273,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "narrow",
+      "locale": "zh"
+    },
+    {
+      "path": "/terms",
+      "cssViewport": {
+        "width": 320,
+        "height": 844
+      },
+      "contentWidth": 310,
+      "scrollWidth": 310,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 273,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "narrow",
+      "locale": "zh"
+    },
+    {
+      "path": "/en",
+      "cssViewport": {
+        "width": 320,
+        "height": 844
+      },
+      "contentWidth": 310,
+      "scrollWidth": 310,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 273,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "narrow",
+      "locale": "en"
+    },
+    {
+      "path": "/en/speakers",
+      "cssViewport": {
+        "width": 320,
+        "height": 844
+      },
+      "contentWidth": 310,
+      "scrollWidth": 310,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 273,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "narrow",
+      "locale": "en"
+    },
+    {
+      "path": "/en/sound",
+      "cssViewport": {
+        "width": 320,
+        "height": 844
+      },
+      "contentWidth": 310,
+      "scrollWidth": 310,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 273,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "narrow",
+      "locale": "en"
+    },
+    {
+      "path": "/en/design",
+      "cssViewport": {
+        "width": 320,
+        "height": 844
+      },
+      "contentWidth": 310,
+      "scrollWidth": 310,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 273,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "narrow",
+      "locale": "en"
+    },
+    {
+      "path": "/en/about",
+      "cssViewport": {
+        "width": 320,
+        "height": 844
+      },
+      "contentWidth": 310,
+      "scrollWidth": 310,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 273,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "narrow",
+      "locale": "en"
+    },
+    {
+      "path": "/en/journal",
+      "cssViewport": {
+        "width": 320,
+        "height": 844
+      },
+      "contentWidth": 310,
+      "scrollWidth": 310,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 273,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "narrow",
+      "locale": "en"
+    },
+    {
+      "path": "/en/journal/slow-listening",
+      "cssViewport": {
+        "width": 320,
+        "height": 844
+      },
+      "contentWidth": 310,
+      "scrollWidth": 310,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 273,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "narrow",
+      "locale": "en"
+    },
+    {
+      "path": "/en/journal/natural-materials",
+      "cssViewport": {
+        "width": 320,
+        "height": 844
+      },
+      "contentWidth": 310,
+      "scrollWidth": 310,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 273,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "narrow",
+      "locale": "en"
+    },
+    {
+      "path": "/en/journal/a-place-for-sound",
+      "cssViewport": {
+        "width": 320,
+        "height": 844
+      },
+      "contentWidth": 310,
+      "scrollWidth": 310,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 273,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "narrow",
+      "locale": "en"
+    },
+    {
+      "path": "/en/contact",
+      "cssViewport": {
+        "width": 320,
+        "height": 844
+      },
+      "contentWidth": 310,
+      "scrollWidth": 310,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 273,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "narrow",
+      "locale": "en"
+    },
+    {
+      "path": "/en/faq",
+      "cssViewport": {
+        "width": 320,
+        "height": 844
+      },
+      "contentWidth": 310,
+      "scrollWidth": 310,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 273,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "narrow",
+      "locale": "en"
+    },
+    {
+      "path": "/en/privacy",
+      "cssViewport": {
+        "width": 320,
+        "height": 844
+      },
+      "contentWidth": 310,
+      "scrollWidth": 310,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 273,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "narrow",
+      "locale": "en"
+    },
+    {
+      "path": "/en/terms",
+      "cssViewport": {
+        "width": 320,
+        "height": 844
+      },
+      "contentWidth": 310,
+      "scrollWidth": 310,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 273,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "device": "narrow",
+      "locale": "en"
+    }
+  ]
+}
