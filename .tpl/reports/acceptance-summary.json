@@ -1,19 +1,15 @@
 {
-  "checkedAt": "2026-10-27T09:57:16.875Z",
-  "kind": "local-application-acceptance",
-  "sourceDigest": "249d978024846e1ab32d95f9fba3213827a66d48330c394ffb684683639b117c",
-  "sourceCommit": "6ea61f25a2e23dde89fa42fd2689911383f90049",
+  "kind": "local-navigation-update",
+  "version": "1.0.1",
+  "checkedAt": "2026-10-27T10:24:42.882Z",
+  "sourceCommit": "e9b3394d4cd8a1f423fb587ffd1df64708210f6f",
+  "sourceDigest": "f77ef7d25a93c2a9fd42db68316c93ecb58fa3dc9c12058a5649ff1b92d7408a",
   "environment": {
-    "platform": "local WSL Ubuntu / Linux filesystem",
+    "platform": "local WSL Linux filesystem",
     "node": "24.16.0",
-    "pnpm": "12.10.1",
-    "independentLocalClone": true
+    "pnpm": "12.10.1"
   },
   "checks": [
-    {
-      "command": "pnpm install --frozen-lockfile --offline",
-      "status": "passed"
-    },
     {
       "command": "pnpm typecheck",
       "status": "passed"
@@ -24,178 +20,86 @@
     },
     {
       "command": "pnpm test",
-      "status": "passed",
-      "tests": 3
+      "status": "passed"
     },
     {
       "command": "pnpm build",
       "status": "passed"
     }
   ],
-  "service": {
-    "checkedAt": "2026-10-27T09:38:20.315Z",
-    "ready": true,
-    "stopped": true,
-    "results": [
-      {
-        "path": "/",
-        "status": 200,
-        "h1": 1
+  "navigation": [
+    {
+      "path": "/",
+      "cssViewport": {
+        "width": 1440,
+        "height": 1000
       },
-      {
-        "path": "/speakers",
-        "status": 200,
-        "h1": 1
+      "contentWidth": 1430,
+      "scrollWidth": 1430,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 1037,
+        "height": 720
       },
-      {
-        "path": "/sound",
-        "status": 200,
-        "h1": 1
-      },
-      {
-        "path": "/design",
-        "status": 200,
-        "h1": 1
-      },
-      {
-        "path": "/about",
-        "status": 200,
-        "h1": 1
-      },
-      {
-        "path": "/journal",
-        "status": 200,
-        "h1": 1
-      },
-      {
-        "path": "/journal/slow-listening",
-        "status": 200,
-        "h1": 1
-      },
-      {
-        "path": "/journal/natural-materials",
-        "status": 200,
-        "h1": 1
-      },
-      {
-        "path": "/journal/a-place-for-sound",
-        "status": 200,
-        "h1": 1
-      },
-      {
-        "path": "/contact",
-        "status": 200,
-        "h1": 1
-      },
-      {
-        "path": "/faq",
-        "status": 200,
-        "h1": 1
-      },
-      {
-        "path": "/privacy",
-        "status": 200,
-        "h1": 1
-      },
-      {
-        "path": "/terms",
-        "status": 200,
-        "h1": 1
-      },
-      {
-        "path": "/en",
-        "status": 200,
-        "h1": 1
-      },
-      {
-        "path": "/en/speakers",
-        "status": 200,
-        "h1": 1
-      },
-      {
-        "path": "/en/sound",
-        "status": 200,
-        "h1": 1
-      },
-      {
-        "path": "/en/design",
-        "status": 200,
-        "h1": 1
-      },
-      {
-        "path": "/en/about",
-        "status": 200,
-        "h1": 1
-      },
-      {
-        "path": "/en/journal",
-        "status": 200,
-        "h1": 1
-      },
-      {
-        "path": "/en/journal/slow-listening",
-        "status": 200,
-        "h1": 1
-      },
-      {
-        "path": "/en/journal/natural-materials",
-        "status": 200,
-        "h1": 1
-      },
-      {
-        "path": "/en/journal/a-place-for-sound",
-        "status": 200,
-        "h1": 1
-      },
-      {
-        "path": "/en/contact",
-        "status": 200,
-        "h1": 1
-      },
-      {
-        "path": "/en/faq",
-        "status": 200,
-        "h1": 1
-      },
-      {
-        "path": "/en/privacy",
-        "status": 200,
-        "h1": 1
-      },
-      {
-        "path": "/en/terms",
-        "status": 200,
-        "h1": 1
-      },
-      {
-        "path": "/missing-page",
-        "status": 404
+      "title": "Sonora · 为日常而设计的声音",
+      "navigation": {
+        "position": "sticky",
+        "top": 0,
+        "height": 76,
+        "scrollY": 720
       }
-    ],
-    "logs": "   ▲ Next.js 15.5.15\n   - Local:        http://localhost:43293\n   - Network:      http://10.255.255.254:43293\n\n ✓ Starting...\n ✓ Ready in 515ms\n"
-  },
-  "browser": {
-    "layoutCombinations": 104,
-    "brokenImages": 0,
-    "horizontalOverflow": 0,
-    "duplicateH1": 0,
-    "interactions": [
-      "mobile dialog open, Escape close, focus return",
-      "product gallery material image selection",
-      "language switch retains page, query and hash",
-      "contact and subscription demo states isolated",
-      "FAQ expand and collapse"
-    ],
-    "consoleErrors": 0
-  },
-  "formatCheck": {
-    "status": "blocked",
-    "reason": "用户限定本地交付，gitUrl=null，格式检查如实拒绝该字段"
-  },
+    },
+    {
+      "path": "/",
+      "cssViewport": {
+        "width": 834,
+        "height": 1180
+      },
+      "contentWidth": 824,
+      "scrollWidth": 824,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 509,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "navigation": {
+        "position": "sticky",
+        "top": 0,
+        "height": 76,
+        "scrollY": 720
+      }
+    },
+    {
+      "path": "/",
+      "cssViewport": {
+        "width": 390,
+        "height": 844
+      },
+      "contentWidth": 380,
+      "scrollWidth": 380,
+      "headings": 1,
+      "brokenImages": [],
+      "capture": {
+        "width": 333,
+        "height": 720
+      },
+      "title": "Sonora · 为日常而设计的声音",
+      "navigation": {
+        "position": "sticky",
+        "top": 0,
+        "height": 64,
+        "scrollY": 720
+      }
+    }
+  ],
+  "screenshotsUpdated": 12,
+  "mobileMenu": "Opened after scrolling; Escape closed; focus returned",
   "limitations": [
-    "未创建远端、未推送、未上传源码ZIP、未上架或部署。",
-    "CSS视口按1440×1000、834×1180、390×844和320×844验证，展示截图保留真实缩放像素并登记解码尺寸。",
-    "参考仅有静态图片，动效为自主设计；未声称完成原站逐帧对照或所有交互在每种设备上的完整矩阵。"
+    "仅本地交付；gitUrl未配置，未推送或发布。",
+    "本次复验导航及对应截图，历史全页矩阵见 acceptance-1.0.0.json。"
   ],
   "files": [
     [
@@ -224,51 +128,51 @@
     ],
     [
       ".tpl/assets/desktop-contact.webp",
-      "6b474bc0c3f58870700f53d5c055d04f5fb7268f1fbc9dde687eba8e376e61af"
+      "5aa6072fb382adbbe5fbf7cc5880a658d452d7f7745b0f7b91110a9354f0032f"
     ],
     [
       ".tpl/assets/desktop-home.webp",
-      "1403a8d25ff416cd66885663b6020b61c232be757dd0ec77df61a0135b1fb9f2"
+      "796e0d270a31af22407eb5a6cbd7d5d176911b19566d3d0e1631079b634f97aa"
     ],
     [
       ".tpl/assets/desktop-journal.webp",
-      "821dc9170691240eb7d1ab02b64166694b98eff2f86aa36cc84dca1c4626e8f8"
+      "3567e6d07fa5ba461d86962e46aeae446c4b341da396de40c973dfae98fd8318"
     ],
     [
       ".tpl/assets/desktop-sound.webp",
-      "d44360f778ad4dc9502a3d947f7ba0877b9a9c2d754b51ea0fc1ac84991b1004"
+      "1e73c19d9d7fbe7ac4390d2e975b1507e0a66521b4ca2adc129cd4ec487a21d5"
     ],
     [
       ".tpl/assets/mobile-contact.webp",
-      "dc2d93899bbafeb3c3af464abd1080644b59dd6ccba5dcd1272929e8c6f76a0c"
+      "cca360754af885c0686a6bbd75050786e2dc324feb776bc619708269db458280"
     ],
     [
       ".tpl/assets/mobile-home.webp",
-      "1e7faa36fe53e5e43050c92a6c100a62789ebecbb9d4c09e8563d757e1dfeae1"
+      "966d42e2c00be9ea1b7cc02d7713c6bc0c6e365d72c66063aeb82bea0a57d640"
     ],
     [
       ".tpl/assets/mobile-journal.webp",
-      "49a78dc1e4eb3a380e32a59f31d125200a00a335e9d82ddbee068c1ebec43895"
+      "49d861cc8c05fdd041d184b82d6bf9a06daa7914680767aab80ffb9d734770e8"
     ],
     [
       ".tpl/assets/mobile-sound.webp",
-      "a888411fc1b61ff133f053dbcac1f82cbe77afb1922a1553d5fbf3b0fe9ca183"
+      "f379f67f1b14840695d9226fefdeaf7d4f04e1eb7d17b4d099af4638fdebd260"
     ],
     [
       ".tpl/assets/tablet-contact.webp",
-      "0ccc5d00a4b2f1626f85cd75d6845ce6d2006138574e847c740ed3429da9b50a"
+      "11287f212b5b085fefdd8524129d2d36e9f3e5600ad11e02f7782683c83d3e7a"
     ],
     [
       ".tpl/assets/tablet-home.webp",
-      "9231a63bf2d3726b2846047f91fd69030ca4ade78c8d87e80042518ae30a2bb4"
+      "88f2c2bf4fb091161bd46a01b4468f2bbdb3704487b198d1e246a09f0cfa69d5"
     ],
     [
       ".tpl/assets/tablet-journal.webp",
-      "b47c500a8149428a9af9c52787e66f710a55ace132e8278d8a8370db82536599"
+      "208e627ae02db248ab9c2fe3277fe4407f671578736016bf920dde698f90620e"
     ],
     [
       ".tpl/assets/tablet-sound.webp",
-      "faeafe5687a50bfcb3c52bdc74788d60fd4501ce30e16a77b222d325cfe909d7"
+      "97e398a092e0113390df73e9bf774e4f679e7e2da4b76d862466774445a6c717"
     ],
     [
       ".tpl/contracts/env.schema.json",
@@ -316,7 +220,7 @@
     ],
     [
       ".tpl/template.json",
-      "15d0ca2e96a6cb4f2c06f47fca9e52b2322deef41a0828733b3c5e45c34f5e36"
+      "1e9e3c0621f7c9a9a3291ca99ae03ae188717f604e8c756eb25be0ac6338264e"
     ],
     [
       ".tpl/tools/LICENSE",
@@ -360,7 +264,7 @@
     ],
     [
       "package.json",
-      "b6683f1b6e52d64b4035f1550726b92bd9ae99c15e9aca823fac8bf51b273a03"
+      "e09c14b0ad70616c6a1aeaabde2852d384cbb6978d4fdd8c9c17123db2a29ba1"
     ],
     [
       "pnpm-lock.yaml",
@@ -1356,11 +1260,11 @@
     ],
     [
       "src/features/site-templates/catalog/sonora/theme.css",
-      "eaab135f58d8dcfdbc2e6e5ff4756668b97a874fc5357a568dee6ed797518b8d"
+      "1e84c18c6112402ddbf100b95d0df4f1de538fd123edd39028a47c2c1ccdb5de"
     ],
     [
       "src/features/site-templates/catalog/sonora/tokens.css",
-      "12c75bc3fbfdc2fe5650e098570b0068301f99e581ca9f042046a5ccb910890e"
+      "52eca1a2af8cbd491f795edd0945cf9e1d5cb4098580d425a0dc5d6ec37b5b60"
     ],
     [
       "src/features/site-templates/types.ts",

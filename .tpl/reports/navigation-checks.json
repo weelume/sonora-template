@@ -1,0 +1,68 @@
+[
+  {
+    "path": "/",
+    "cssViewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "contentWidth": 1430,
+    "scrollWidth": 1430,
+    "headings": 1,
+    "brokenImages": [],
+    "capture": {
+      "width": 1037,
+      "height": 720
+    },
+    "title": "Sonora · 为日常而设计的声音",
+    "navigation": {
+      "position": "sticky",
+      "top": 0,
+      "height": 76,
+      "scrollY": 720
+    }
+  },
+  {
+    "path": "/",
+    "cssViewport": {
+      "width": 834,
+      "height": 1180
+    },
+    "contentWidth": 824,
+    "scrollWidth": 824,
+    "headings": 1,
+    "brokenImages": [],
+    "capture": {
+      "width": 509,
+      "height": 720
+    },
+    "title": "Sonora · 为日常而设计的声音",
+    "navigation": {
+      "position": "sticky",
+      "top": 0,
+      "height": 76,
+      "scrollY": 720
+    }
+  },
+  {
+    "path": "/",
+    "cssViewport": {
+      "width": 390,
+      "height": 844
+    },
+    "contentWidth": 380,
+    "scrollWidth": 380,
+    "headings": 1,
+    "brokenImages": [],
+    "capture": {
+      "width": 333,
+      "height": 720
+    },
+    "title": "Sonora · 为日常而设计的声音",
+    "navigation": {
+      "position": "sticky",
+      "top": 0,
+      "height": 64,
+      "scrollY": 720
+    }
+  }
+]
