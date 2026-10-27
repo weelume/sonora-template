@@ -6,4 +6,4 @@
 
 Poppins 使用 SIL OFL，完整许可证位于 public/templates/sonora/fonts/Poppins-OFL.txt。MiSans 的来源及许可说明位于 public/templates/sonora/fonts/misans/LICENSE-SOURCE.md。工具与框架遵循各自许可证。
 
-当前仅本地交付，不等于公开发布、上架或商业素材授权。
+公开发布不代表取得商标或第三方素材商业使用授权。

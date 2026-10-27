@@ -8,6 +8,6 @@ Node 24.16.0，pnpm 12.10.1。安装：pnpm install --frozen-lockfile；启动�
 
 验证：pnpm typecheck、pnpm lint、pnpm test、pnpm build。修改入口见 .tpl/docs/CUSTOMIZATION.md。表单只进行浏览器本地校验，不发送、不保存。无后端、账号、支付或持久化。
 
-本次仅本地交付，未配置远端 Git；gitUrl=null 如实标记未配置，因此完整市场导入协议检查会拒绝该字段。不得虚构仓库地址。
+源码仓库：https://github.com/weelume/sonora-template 。
 
 素材、源码与字体的权利边界见 .tpl/docs/LICENSE.md。

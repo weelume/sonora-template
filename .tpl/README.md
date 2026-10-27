@@ -6,4 +6,4 @@
 
 Node/pnpm 精确版本、依赖锁、安装和运行命令见根 README 与 project.json。无需私密环境变量；PORT 为非秘密服务端变量。运行素材本地托管。Ctrl+C 结束自行启动的服务，不停止其他项目进程。
 
-源码可按 CUSTOMIZATION.md 修改并运行对应检查。当前无远端 Git 地址，不能将格式检查通过作为本次交付声明。
+源码可按 CUSTOMIZATION.md 修改并运行对应检查。源码仓库：https://github.com/weelume/sonora-template 。实际应用检查结果及其适用范围见 reports/。
